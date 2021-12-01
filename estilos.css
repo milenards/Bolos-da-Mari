@@ -48,3 +48,21 @@ body{
 .texto-pequeno{
     font-size: 28px;
 }
+
+.menu{
+    background-color:#D8E2DC;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    color: #FF7500;
+}
+
+.item-menu{
+    color: #FF7500;
+    font-size: 18px;
+    font-weight: 500;
+    
+}
