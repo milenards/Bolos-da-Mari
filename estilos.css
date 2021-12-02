@@ -2,7 +2,7 @@
 
 body{
     margin: 0;
-    font-family: 'Roboto'
+    font-family: 'Roboto' 
 }
 
 
@@ -64,6 +64,7 @@ body{
     font-size: 18px;
     font-weight: 500;
     
+    
 }
 
 .foto-banner{
@@ -83,6 +84,7 @@ body{
     text-align: center;
     color:#FF7500;
     font-family: 'Playball';
+    margin-top: 52px;
 }
 
 .texto-colunas{
@@ -96,16 +98,21 @@ body{
 
 .titulo{
     font-family: 'Playball';
+    margin-top: 52px;
     text-align: center;
     width: 1200px;
     color: #FF7500;
+    
 }
 
 .galeria{
     width: 1200px;
+    height: 390px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#D8E2DC ;
+    background-color:#D8E2DC; 
+    padding-top: 52px;
+
 }
 
 .fotos{
@@ -116,18 +123,41 @@ body{
     margin-right: 30px;
     border: 5px solid #FF993C;
 
+
 }
 
 .mapa{
-    margin-left:1200px;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+    margin-top: 52px;
 
 
 }
 
-.local{
-    border: 8px solid #FF7500;
-    border-radius: 10px;
-
+.contato{
+    text-align: center;
+    color: #FF7500;
+    margin-top: 52px;
+    
 
 }
 
+
+.linha{
+    background-color:#D8E2DC ;
+    height: 5px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 52px;
+}
+
+.logo-footer{
+    text-align: center;
+    color: #FF7500;
+    font-family: 'playball';
+    margin-top: 52px;
+
+
+}
